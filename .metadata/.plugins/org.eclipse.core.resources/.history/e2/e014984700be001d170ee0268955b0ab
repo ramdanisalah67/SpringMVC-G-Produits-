@@ -1,0 +1,5 @@
+package com.example.deme.entities;
+
+public class Produit {
+
+}
